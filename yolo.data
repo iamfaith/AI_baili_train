@@ -1,0 +1,5 @@
+classes= 1
+train  = /Users/faith/AI_baili_train/train.list
+valid  = /Users/faith/AI_baili_train/train.list
+names = /Users/faith/AI_baili_train/yolo.names
+backup = /Users/faith/AI_baili_train/backup
