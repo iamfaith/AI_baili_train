@@ -1,5 +1,5 @@
 
-import cv2, base64
+import cv2 
 import numpy as np
 import time
 import onnxruntime as ort
